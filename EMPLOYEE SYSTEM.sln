@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMPLOYEE SYSTEM", "EMPLOYEE SYSTEM\EMPLOYEE SYSTEM.csproj", "{270C2C02-9AA6-45B4-8BF6-3CF96AAE313D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMS SAMPLE", "..\EMS SAMPLE\EMS SAMPLE\EMS SAMPLE.csproj", "{5DF3FC82-2A31-4678-BD7E-D6F7ABFF9FCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{270C2C02-9AA6-45B4-8BF6-3CF96AAE313D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{270C2C02-9AA6-45B4-8BF6-3CF96AAE313D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{270C2C02-9AA6-45B4-8BF6-3CF96AAE313D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{270C2C02-9AA6-45B4-8BF6-3CF96AAE313D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DF3FC82-2A31-4678-BD7E-D6F7ABFF9FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DF3FC82-2A31-4678-BD7E-D6F7ABFF9FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DF3FC82-2A31-4678-BD7E-D6F7ABFF9FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DF3FC82-2A31-4678-BD7E-D6F7ABFF9FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB9E0C17-E1C1-40BC-A803-2DC8FF0E6A33}
+	EndGlobalSection
+EndGlobal
