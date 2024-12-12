@@ -25,7 +25,7 @@ namespace EMPLOYEE_SYSTEM
 
         private void createConfirmbtn_Click(object sender, EventArgs e)
         {
-            newpass npass = new newpass();
+            newpassFORM npass = new newpassFORM();
             npass.ShowDialog();
             this.Hide();
 

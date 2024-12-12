@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace EMPLOYEE_SYSTEM
 {
-    public partial class createAcc : Form
+    public partial class createAccFORM : Form
     {
-        public createAcc()
+        public createAccFORM()
         {
             InitializeComponent();
             createConfirmbtn.BackColor = Color.FromArgb(34, 46, 71);

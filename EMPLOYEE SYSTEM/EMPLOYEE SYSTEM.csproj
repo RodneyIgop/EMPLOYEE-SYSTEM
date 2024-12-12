@@ -116,11 +116,11 @@
     <Compile Include="ATTENDANCE.Designer.cs">
       <DependentUpon>ATTENDANCE.cs</DependentUpon>
     </Compile>
-    <Compile Include="createAcc.cs">
+    <Compile Include="createAccFORM.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="createAcc.Designer.cs">
-      <DependentUpon>createAcc.cs</DependentUpon>
+    <Compile Include="createAccFORM.Designer.cs">
+      <DependentUpon>createAccFORM.cs</DependentUpon>
     </Compile>
     <Compile Include="DASHBOARD.cs">
       <SubType>Form</SubType>
@@ -146,11 +146,11 @@
     <Compile Include="forgetpass.Designer.cs">
       <DependentUpon>forgetpass.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form1.cs">
+    <Compile Include="LOGINFORM.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="LOGINFORM.Designer.cs">
+      <DependentUpon>LOGINFORM.cs</DependentUpon>
     </Compile>
     <Compile Include="Form2.cs">
       <SubType>Form</SubType>
@@ -164,11 +164,11 @@
     <Compile Include="LOGS.Designer.cs">
       <DependentUpon>LOGS.cs</DependentUpon>
     </Compile>
-    <Compile Include="newpass.cs">
+    <Compile Include="newpassFORM.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="newpass.Designer.cs">
-      <DependentUpon>newpass.cs</DependentUpon>
+    <Compile Include="newpassFORM.Designer.cs">
+      <DependentUpon>newpassFORM.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -181,8 +181,8 @@
     <EmbeddedResource Include="ATTENDANCE.resx">
       <DependentUpon>ATTENDANCE.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="createAcc.resx">
-      <DependentUpon>createAcc.cs</DependentUpon>
+    <EmbeddedResource Include="createAccFORM.resx">
+      <DependentUpon>createAccFORM.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="DASHBOARD.resx">
       <DependentUpon>DASHBOARD.cs</DependentUpon>
@@ -196,8 +196,8 @@
     <EmbeddedResource Include="forgetpass.resx">
       <DependentUpon>forgetpass.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="LOGINFORM.resx">
+      <DependentUpon>LOGINFORM.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form2.resx">
       <DependentUpon>Form2.cs</DependentUpon>
@@ -205,8 +205,8 @@
     <EmbeddedResource Include="LOGS.resx">
       <DependentUpon>LOGS.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="newpass.resx">
-      <DependentUpon>newpass.cs</DependentUpon>
+    <EmbeddedResource Include="newpassFORM.resx">
+      <DependentUpon>newpassFORM.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

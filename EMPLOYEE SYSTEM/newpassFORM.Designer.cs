@@ -1,6 +1,6 @@
 ﻿namespace EMPLOYEE_SYSTEM
 {
-    partial class newpass
+    partial class newpassFORM
     {
         /// <summary>
         /// Required designer variable.

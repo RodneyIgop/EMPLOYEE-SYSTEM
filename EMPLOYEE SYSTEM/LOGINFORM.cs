@@ -70,7 +70,7 @@ namespace EMPLOYEE_SYSTEM
 
         private void signupbtn_Click(object sender, EventArgs e)
         {
-            createAcc createaccount = new createAcc();
+            createAccFORM createaccount = new createAccFORM();
             createaccount.Show();
             this.Hide();
 

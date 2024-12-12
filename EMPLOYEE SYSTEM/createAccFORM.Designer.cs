@@ -1,6 +1,6 @@
 ﻿namespace EMPLOYEE_SYSTEM
 {
-    partial class createAcc
+    partial class createAccFORM
     {
         /// <summary>
         /// Required designer variable.
